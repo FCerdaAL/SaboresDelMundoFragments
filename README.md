@@ -18,7 +18,7 @@ Fragmento 2: Listado de platillos del país (RecycleView) (En este caso se selec
 <img src="https://user-images.githubusercontent.com/25965764/159943361-efb4fa4e-4ba3-47ff-a837-02b94369c7bc.png" width="297" height="628">
 
 
-Fragmento 3: Descripción del platilllo seleccionado (TextwView con una breve descripción). (En este caso se seleccionó Empanada):
+Fragmento 3: Descripción del platilllo seleccionado (TextView con una breve descripción). (En este caso se seleccionó Empanada):
 
 <img src="https://user-images.githubusercontent.com/25965764/159943491-a95342be-efb4-4675-91bf-3109598b316e.png" width="297" height="628">
 
@@ -34,7 +34,7 @@ Pero se puede hacer fácilmente.
 Tanto Fragmento 1 y Fragmento 2 tendrán un FragmentContainerView para contener el RecyclerView. Fragmento 3 sólo utilizó un TextView para fines de prueba.
 Pero se podrían agregar más imágenes, entre otras cosas.
 
-De Fragmento 1 (pantalla inicial) se ve un espacio disponible al lado de izquierdo de la imágen, esto es porque se utilizó el RecyclerView del listado de platillos. 
+De Fragmento 1 (pantalla inicial) se ve un espacio disponible al lado izquierdo de la imágen, esto es porque se utilizó el RecyclerView del listado de platillos. 
 En este último, cada elemento (ViewHolder) tiene una imágen y el nombre del platillo, por lo que quedó con este formato. Pero se podría agregar una bandera.
 
 Toda la información a desplegar se guardó de manera local en la app. El listado de países estará inserto dentro de una clase de Kotlin (companion object), 
