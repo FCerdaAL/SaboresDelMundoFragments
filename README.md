@@ -14,7 +14,8 @@ Fragmento 1: Listado de países (RecyclerView):
 
 Fragmento 2: Listado de platillos del país (RecycleView) (En este caso se seleccionó Chile):
 
-<img src="(https://user-images.githubusercontent.com/25965764/159943361-efb4fa4e-4ba3-47ff-a837-02b94369c7bc.png" width="297" height="628">
+
+<img src="https://user-images.githubusercontent.com/25965764/159943361-efb4fa4e-4ba3-47ff-a837-02b94369c7bc.png" width="297" height="628">
 
 
 Fragmento 3: Descripción del platilllo seleccionado (TextwView con una breve descripción). (En este caso se seleccionó Empanada):
