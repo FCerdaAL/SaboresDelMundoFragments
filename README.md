@@ -38,7 +38,7 @@ De Fragmento 1 (pantalla inicial) se ve un espacio disponible al lado izquierdo 
 En este último, cada elemento (ViewHolder) tiene una imágen y el nombre del platillo, por lo que quedó con este formato. Pero se podría agregar una bandera.
 
 Toda la información a desplegar se guardó de manera local en la app. El listado de países estará inserto dentro de una clase de Kotlin (companion object), 
-la cual en conjunto su data class correspondiente devolverá el listado (ListOf del tipo de data class). 
+la cual en conjunto con su data class correspondiente devolverá el listado (ListOf del tipo de data class). 
 
 Para el fragmento 2 se creó una clase que contiene un Map el cual mapea el platillo elegido junto con una descripción que será mostrada en el Fragmento 3.
 
