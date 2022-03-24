@@ -23,13 +23,12 @@ Fragmento 3: Descripción del platilllo seleccionado (TextwView con una breve de
 <img src="https://user-images.githubusercontent.com/25965764/159943491-a95342be-efb4-4675-91bf-3109598b316e.png" width="297" height="628">
 
 
-En esta imágen se volvió a la pantalla anterior y se seleccionó Argentina. Se visualiza un cambio en el listado de platillos, especificamente en el nombre de los
+En la siguiente imágen se volvió a la pantalla anterior y se seleccionó Argentina. Se visualiza un cambio en el listado de platillos, especificamente en el nombre de los
 platillos; sin embargo las imágenes permanecieron sin cambio y esto es porque no se cambió el URL de las imágenes asociadas al nuevo listado perteneciente a Argentina.
 Pero se puede hacer fácilmente.
 
 
 <img src="https://user-images.githubusercontent.com/25965764/159948938-52071ccd-367a-41de-9da3-02814e5401b5.png" width="297" height="628">
-
 
 
 Tanto Fragmento 1 y Fragmento 2 tendrán un FragmentContainerView para contener el RecyclerView. Fragmento 3 sólo utilizó un TextView para fines de prueba.
