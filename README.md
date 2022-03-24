@@ -42,7 +42,7 @@ la cual en conjunto su data class correspondiente devolverá el listado (ListOf 
 
 Para el fragmento 2 se creó una clase que contiene un Map el cual mapea el platillo elegido junto con una descripción que será mostrada en el Fragmento 3.
 
-Para saber qué país y platillo se seleccionaron se utilizó sharedViewModel, el cual permite pasar datos entre Fragmentos. Este sharedViewModel utiliará LiveData,
+Para saber qué país y platillo se seleccionaron se utilizó sharedViewModel, el cual permite pasar datos entre Fragmentos. Este sharedViewModel utilizará LiveData,
 para actualizar de manera automática las listas que se desplegarán en los Fragmentos.
 
 Se pensó en terminar este proyecto en su totalidad y subirla a la playstore, pero debido al copyright de las imágenes se dejó como proyecto sólo de aprendizaje.
