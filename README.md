@@ -9,7 +9,7 @@ Para ello se creó una app de platillos típicos de países en América, el cual
 
 Fragmento 1: Listado de países (RecyclerView):
 
-<img src="https://user-images.githubusercontent.com/25965764/159942940-52a372cc-16d1-4487-8e6e-481693edeb8c.png" width="100" height="400">
+<img src="https://user-images.githubusercontent.com/25965764/159942940-52a372cc-16d1-4487-8e6e-481693edeb8c.png" width="297" height="628">
 
 ![imagen](https://user-images.githubusercontent.com/25965764/159942940-52a372cc-16d1-4487-8e6e-481693edeb8c.png)
 
